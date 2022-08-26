@@ -6,7 +6,7 @@ Gofork is a CLI tool to find forks that are ahead of a github repository.
 
 ## Usage
 
-```shell
+```
 $ gofork --help
 usage: gofork [-h|--help] [-r|--repo "<value>"] [-b|--branch "<value>"]
               [-v|--verbose] [-p|--page <integer>]
